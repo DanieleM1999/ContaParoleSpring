@@ -8,9 +8,9 @@
 </head>
 <body>
 
-Hai scelto una operazione di tipo ${sceltaDaController } <\br>
-Hai digitatp ${testo } <\br>
-il risultato è ${risultato } <\br>
+Hai scelto una operazione di tipo ${sceltaDaController } <br>
+Hai digitato ${testo } <br>
+il risultato è ${risultato } <br>
 
 </body>
 </html>
